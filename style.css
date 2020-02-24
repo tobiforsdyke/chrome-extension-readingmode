@@ -21,3 +21,51 @@
     src: url("fonts/OpenDyslexic-Italic.woff") format('woff');
     font-style: italic;
 }
+
+body { width: 230px; }
+h1 { color: black; padding: 15px; font-family: opendyslexic; }
+
+#blueBTN{
+  background-color: #a6ccff;
+  color: black;
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+  font-size: 14px;
+  text-decoration: none;
+  display: inline-block;
+  width: 100px;
+}
+#creamBTN{
+  background-color: #fcfcec;
+  color: black;
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+  font-size: 14px;
+  text-decoration: none;
+  display: inline-block;
+  width: 100px;
+}
+#blackBTN{
+  background-color: #1c1c1c;
+  color: white;
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+  font-size: 14px;
+  text-decoration: none;
+  display: inline-block;
+  width: 100px;
+}
+#whiteBTN{
+  background-color: white;
+  color: black;
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+  font-size: 14px;
+  text-decoration: none;
+  display: inline-block;
+  width: 100px;
+}
